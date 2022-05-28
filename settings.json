@@ -1,5 +1,6 @@
 {
   "packageName": "com.mp3.juices.music.download.app",
   "active": false,
-  "dead": false
+  "dead": false,
+  "nextApp": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient"
 }
