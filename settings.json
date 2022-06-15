@@ -1,6 +1,6 @@
 {
   "packageName": "com.mp3app1",
-  "active": false,
+  "active": true,
   "dead": false,
   "nextApp": "https://play.google.com/store/apps/details?id=com.netflix.mediaclien"
 }
